@@ -31,7 +31,9 @@ Ajay Kumar Garg Engineering College (AKGEC), Uttar Pradesh Technical University 
 
 ## 🚀 Projects
 
-*None Yet*
+- **minigrep-rs**
+- A miniature grep inspired cli tool built with referencing the official Rust Programming Language Book
+- Link: https://github.com/Sanjie25/minigrep-rs.git
 
 ---
 
