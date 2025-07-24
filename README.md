@@ -25,7 +25,7 @@ Ajay Kumar Garg Engineering College (AKGEC), Uttar Pradesh Technical University 
 
 - **Programming Languages:** Python, C, C++, Lua  
 - **Areas of Interest:** Embedded Systems, Game Development, Open Source Software  
-- **Tools & Technologies:** *(Add here later — e.g., Git, Linux, VS Code)*
+- **Tools & Technologies:** Neovim, Arch Linux, VS Code
 
 ---
 
